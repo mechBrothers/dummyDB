@@ -1,1 +1,22 @@
-[{"id":1,"title":"Example Notice","imageURL":"https://github.com/mechBrothers/dummyDB/raw/main/notice.jpg"},{"id":2,"title":"Example Notice","imageURL":"https://github.com/mechBrothers/dummyDB/raw/main/notice.jpg"}, {"id":3,"title":"Example Notice","imageURL":"https://github.com/mechBrothers/dummyDB/raw/main/notice.jpg"}, {"id":4,"title":"Example Notice","imageURL":"https://github.com/mechBrothers/dummyDB/raw/main/notice.jpg"}]
+[
+  {
+    "id": 1,
+    "title": "Example Notice",
+    "imageURL": "https://i.imgur.com/G1JI88W.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Example Notice",
+    "imageURL": "https://i.imgur.com/G1JI88W.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Example Notice",
+    "imageURL": "https://i.imgur.com/G1JI88W.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Example Notice",
+    "imageURL": "https://i.imgur.com/G1JI88W.jpeg"
+  }
+]
